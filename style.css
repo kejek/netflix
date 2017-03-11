@@ -1,0 +1,25 @@
+/* Styles go here */
+.movie-poster {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+.movie-container {
+    margin: auto;
+    max-width: 1130px;
+}
+body{
+  background-color: #171717 !important;
+  color: #FFFFFF !important;
+}
+.panel{
+  background-color: #171717 !important;
+}
+.btn-netflix {
+    background-color: #b9090b;
+    color: #fff;
+    border: none;
+    padding: 13px 25px 13px 25px;
+    font-size: 18px;
+}
